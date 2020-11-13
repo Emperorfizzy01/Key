@@ -1,0 +1,63 @@
+body {
+    background-color: rgb(43, 41, 41);
+}
+
+.container {
+    display: flex;
+    gap: 20px;
+}
+
+.content {
+    height: 100px;
+    background-color: rgb(105, 105, 116);
+    width: 300px;
+    border-radius: 5%;
+}
+
+.header {
+    width: 100%;
+    background-color: rgb(80, 80, 233);
+    text-align: center;
+    border-radius: 5%;
+    color: white;
+}
+
+#number {
+    text-align: center;
+    color: white;
+    font-size: 350px;
+    font-family: sans-serif;
+    margin-top: 50px;
+}
+
+#key {
+    text-align: center;
+    font-size: large;
+    color: white;
+    padding-top:30px;
+    font-family: sans-serif;
+}
+
+#location {
+    text-align: center;
+    font-size: large;
+    color: white;
+    padding-top:30px;
+    font-family: sans-serif;
+}
+
+#which {
+    text-align: center;
+    font-size: large;
+    color: white;
+    padding-top:30px;
+    font-family: sans-serif;
+}
+
+#code {
+    text-align: center;
+    font-size: large;
+    color: white;
+    padding-top:30px;
+    font-family: sans-serif;
+}
